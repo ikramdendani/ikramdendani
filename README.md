@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @ikramdendani
 - 👀 I’m interested in datascience domaine
-- 🌱 I’m currently learning python to develop a solution for a Reconfigurable intelligent surface 
-- 📫 How to reach me ! if u see any papers about what i learn dont hesistate to send it !
-- thank you lovely poeple <3 
+- 🌱 I’m currently learning python to develop a reconfigurable intelligent antenna for weather RADARs and Drones  
+- 📫 How to reach me ! papers and and are enough. 
 
 <!---
 ikramdendani/ikramdendani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
